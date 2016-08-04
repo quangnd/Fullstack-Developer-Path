@@ -47,10 +47,10 @@ No matter which learning path you’re taking, here are a few concrete pieces of
 1. **Start with a transparent work history from day one**
 If you’re practicing programming on random websites, none of that hard work will be documented, and you won’t be able to use it for your portfolio later on! Be sure to choose a program that allows you to document your work history on GitHub — it will boost your legitimacy and leave robust practice for employers to see what you’ve been working hard on. Learn’s full stack program does a good job of integrating that feature.
 
-**2. Find a community for support.**
+2. **Find a community for support.**
 If you’ve decided to attend an in-person immersive, this won’t be that hard. However, if you’re learning online or alone, it’s especially important for you to find people to share your experience with. This is for several reasons: it’s not just good for morale, but it will help boost your general knowledge, and even give you potential job connections later on. Never underestimate the power of a community! Maybe that community is built into the online platform you’re using. If not, try to find some interactive forums, Slack chats, or threads that help give you the community that makes code real and effective.
 
-**3. Blog about your experience.**
+3. **Blog about your experience.**
 This actually goes pretty hand-in-hand with the transparent work history. Employers love to see that you’re actively engaged in your work and that you’re constantly learning. A blog is not only a great way to showcase what you’re working on, but it’s also the perfect venue to highlight your critical thoughts, show that you are really invested in this for the future, and may help get you in contact with fellow programmers. That also builds the community that I just talked about in number two.
 
 4. **Introduce yourself to potential employers early on.**
